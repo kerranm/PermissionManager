@@ -33,7 +33,7 @@
         }
     ],
     "require": {
-        "spatie/laravel-permission": "2.36.1",
+        "spatie/laravel-permission": "2.36.*",
         "backpack/crud": "^3.4.0|dev-upgrade"
     },
     "require-dev": {
